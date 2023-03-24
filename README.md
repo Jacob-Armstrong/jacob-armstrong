@@ -1,6 +1,6 @@
 ## About Me
 
-Computer Science undergraduate at California State University, Fullerton.
+Computer Science undergraduate
 
 ## Languages & Tools
 
