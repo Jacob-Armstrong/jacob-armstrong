@@ -24,4 +24,4 @@ Computer Science undergraduate.
 <img src="https://github-readme-stats-fork-one.vercel.app/api/top-langs/?username=Vyadin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&exclude_repo=github-readme-stats-fork&hide=shaderlab,HLSL"/>
 
 
-[![](https://visitcount.itsvg.in/api?id=Vyadin&icon=5&color=1)](https://visitcount.itsvg.in)
+[comment]: <> (Taking this out for now: https://visitcount.itsvg.in/api?id=Vyadin&icon=5&color=1)
