@@ -1,6 +1,6 @@
 ## About Me
 
-Computer Science undergraduate
+Computer Science undergraduate.
 
 ## Languages & Tools
 
