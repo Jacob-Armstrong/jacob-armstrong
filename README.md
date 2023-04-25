@@ -21,6 +21,6 @@ Computer Science undergraduate.
 [comment]: <> (https://github-readme-stats.vercel.app/api?username=Vyadin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 <img src="https://summary-card-orpin.vercel.app/api/cards/profile-details?username=Vyadin&theme=tokyonight"/>
-<img src="https://github-readme-stats-fork-one.vercel.app/api/top-langs/?username=Vyadin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&exclude_repo=github-readme-stats-fork&hide=shaderlab,HLSL,TypeScript,HTML"/>
+<img src="https://github-readme-stats-fork-one.vercel.app/api/top-langs/?username=Vyadin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&exclude_repo=github-readme-stats-fork&hide=shaderlab,HLSL,TypeScript,HTML,ASP.Net"/>
 
 [comment]: <> (Taking this out for now: https://visitcount.itsvg.in/api?id=Vyadin&icon=5&color=1)
