@@ -1,6 +1,6 @@
 ## About Me
 
-Computer Science undergraduate.
+Computer Science graduate -- looking to learn and find my place in the industry!
 
 ## Languages, Tools & Platforms
 
