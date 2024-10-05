@@ -18,6 +18,6 @@ Computer Science graduate -- looking to learn and find my place in the industry!
 [comment]: <> (https://github-readme-stats.vercel.app/api?username=Vyadin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 <img src="https://summary-card-orpin.vercel.app/api/cards/profile-details?username=Vyadin&theme=tokyonight"/>
-<img src="https://github-readme-stats-fork-one.vercel.app/api/top-langs/?username=Vyadin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&exclude_repo=github-readme-stats-fork,Social-Mania&hide=shaderlab,HLSL,TypeScript,HTML,ASP.Net"/>
+<img src="https://github-readme-stats-fork-one.vercel.app/api/top-langs/?username=Vyadin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&exclude_repo=github-readme-stats-fork,Social-Mania&hide=shaderlab,HLSL,TypeScript,ASP.Net"/>
 
 [comment]: <> (Taking this out for now: https://visitcount.itsvg.in/api?id=Vyadin&icon=5&color=1)
