@@ -17,7 +17,7 @@ Computer Science graduate -- looking to learn and find my place in the industry!
 [comment]: <> (optional stat window thingy!)
 [comment]: <> (https://github-readme-stats.vercel.app/api?username=Jacob-Armstrong&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-<img src="https://summary-card-orpin.vercel.app/api/cards/profile-details?username=Vyadin&theme=tokyonight"/>
+<img src="https://summary-card-orpin.vercel.app/api/cards/profile-details?username=Jacob-Armstrong&theme=tokyonight"/>
 <img src="https://github-readme-stats-fork-one.vercel.app/api/top-langs/?username=Jacob-Armstrong&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&exclude_repo=github-readme-stats-fork,Social-Mania,portfolio&hide=shaderlab,HLSL,TypeScript,ASP.Net"/>
 
 [comment]: <> (Taking this out for now: https://visitcount.itsvg.in/api?id=Vyadin&icon=5&color=1)
