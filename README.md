@@ -1,23 +1,37 @@
-## About Me
-
-Computer Science graduate -- looking to learn and find my place in the industry!
-
-## Languages, Tools & Platforms
-
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-<br>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
-<br>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-<br>
+# 💫 About Me
 
 
-## Cool Stats
+🎓 Recent graduate from California State University. Bachelor's degree in Computer Science.<br>
 
-[comment]: <> (optional stat window thingy!)
-[comment]: <> (https://github-readme-stats.vercel.app/api?username=Jacob-Armstrong&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+🔭 I’m currently working on The Odin Project<br>
+🌱 Learning Full Stack Development<br>
+💬 Ask me about MMOs<br>
+⚡ Fun fact: I'm an Eagle Scout, bronze palm
 
-<img src="https://summary-card-orpin.vercel.app/api/cards/profile-details?username=Jacob-Armstrong&theme=tokyonight"/>
-<img src="https://github-readme-stats-fork-one.vercel.app/api/top-langs/?username=Jacob-Armstrong&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&exclude_repo=github-readme-stats-fork,Social-Mania,portfolio&hide=shaderlab,HLSL,TypeScript,ASP.Net"/>
 
-[comment]: <> (Taking this out for now: https://visitcount.itsvg.in/api?id=Vyadin&icon=5&color=1)
+<!-- ## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jacobarmstrongcs)  -->
+
+# 💻 Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Backend
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Database
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Data Science
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+
+### Game Development
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Godot](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://summary-card-orpin.vercel.app/api/cards/profile-details?username=Jacob-Armstrong&theme=tokyonight)<br/>
+![](https://github-readme-stats-cyan-nine-99.vercel.app/api/top-langs/?username=Jacob-Armstrong&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&exclude_repo=github-readme-stats,Social-Mania,portfolio&hide=shaderlab,HLSL,TypeScript,ASP.Net&layout=pie)<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jacob-armstrong&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&title=MultiLanguage,Commits,PullRequest,Experience,Issues,Repositories)
