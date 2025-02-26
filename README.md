@@ -3,8 +3,7 @@
 
 🎓 Recent graduate from California State University. Bachelor's degree in Computer Science.<br>
 
-🔭 I’m currently working on The Odin Project<br>
-🌱 Learning Full Stack Development<br>
+🔭 I’m currently looking for work!<br>
 💬 Ask me about MMOs<br>
 ⚡ Fun fact: I'm an Eagle Scout, bronze palm
 
