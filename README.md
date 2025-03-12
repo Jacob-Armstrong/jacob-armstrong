@@ -30,7 +30,7 @@
 
 # 📊 GitHub Stats:
 ![](https://summary-card-orpin.vercel.app/api/cards/profile-details?username=Jacob-Armstrong&theme=tokyonight)<br/>
-![](https://github-readme-stats-cyan-nine-99.vercel.app/api/top-langs/?username=Jacob-Armstrong&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&exclude_repo=github-readme-stats,Social-Mania,portfolio&hide=shaderlab,HLSL,TypeScript,ASP.Net&layout=pie)<br/>
+![](https://github-readme-stats-cyan-nine-99.vercel.app/api/top-langs/?username=Jacob-Armstrong&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&exclude_repo=github-readme-stats,Social-Mania,portfolio,javascript-exercises,css-exercises&hide=shaderlab,HLSL,TypeScript,ASP.Net,HTML,CSS,Javascript&layout=pie)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jacob-armstrong&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&title=MultiLanguage,Commits,PullRequest,Experience,Issues,Repositories)
