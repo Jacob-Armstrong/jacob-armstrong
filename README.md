@@ -1,9 +1,10 @@
 # 💫 About Me
 
 
+💻 Software Engineer @ Visa! <br>
 🎓 Recent graduate from California State University. Bachelor's degree in Computer Science. <br>
 
-🔭 I’m currently looking for work! <br>
+
 💬 Ask me about MMOs <br>
 ⚡ Fun fact: I'm an Eagle Scout, bronze palm <br>
 
