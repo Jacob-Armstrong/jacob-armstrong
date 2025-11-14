@@ -2,7 +2,7 @@
 
 
 💻 Software Engineer @ Visa! <br>
-🎓 Recent graduate from California State University. Bachelor's degree in Computer Science. <br>
+🎓 Recent graduate from California State University, Fullerton. Bachelor's degree in Computer Science. <br>
 
 
 💬 Ask me about MMOs <br>
